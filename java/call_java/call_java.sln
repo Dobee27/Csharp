@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "call_java", "call_java\call_java.csproj", "{A31DC999-94C7-4207-882E-F31C7CEAE9E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{62F11C93-99AF-4E59-92DB-7E8675CEE3B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A31DC999-94C7-4207-882E-F31C7CEAE9E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31DC999-94C7-4207-882E-F31C7CEAE9E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31DC999-94C7-4207-882E-F31C7CEAE9E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31DC999-94C7-4207-882E-F31C7CEAE9E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F11C93-99AF-4E59-92DB-7E8675CEE3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F11C93-99AF-4E59-92DB-7E8675CEE3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F11C93-99AF-4E59-92DB-7E8675CEE3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F11C93-99AF-4E59-92DB-7E8675CEE3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C679EB1-78A1-4B5C-B9FC-5574A439ADF5}
+	EndGlobalSection
+EndGlobal

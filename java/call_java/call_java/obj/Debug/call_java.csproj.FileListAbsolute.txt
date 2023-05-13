@@ -1,0 +1,11 @@
+C:\Users\FPT SHOP\Documents\lap trin window\dobee test\java\call_java\call_java\obj\Debug\call_java.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\Documents\lap trin window\dobee test\java\call_java\call_java\obj\Debug\call_java.csproj.SuggestedBindingRedirects.cache
+C:\Users\FPT SHOP\Documents\lap trin window\dobee test\java\call_java\call_java\obj\Debug\call_java.Form1.resources
+C:\Users\FPT SHOP\Documents\lap trin window\dobee test\java\call_java\call_java\obj\Debug\call_java.Properties.Resources.resources
+C:\Users\FPT SHOP\Documents\lap trin window\dobee test\java\call_java\call_java\obj\Debug\call_java.csproj.GenerateResource.cache
+C:\Users\FPT SHOP\Documents\lap trin window\dobee test\java\call_java\call_java\obj\Debug\call_java.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\Documents\lap trin window\dobee test\java\call_java\call_java\bin\Debug\call_java.exe.config
+C:\Users\FPT SHOP\Documents\lap trin window\dobee test\java\call_java\call_java\bin\Debug\call_java.exe
+C:\Users\FPT SHOP\Documents\lap trin window\dobee test\java\call_java\call_java\bin\Debug\call_java.pdb
+C:\Users\FPT SHOP\Documents\lap trin window\dobee test\java\call_java\call_java\obj\Debug\call_java.exe
+C:\Users\FPT SHOP\Documents\lap trin window\dobee test\java\call_java\call_java\obj\Debug\call_java.pdb
